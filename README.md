@@ -1,5 +1,5 @@
 # STRWEB_1
-Dmitry Brysh
+Dmitry Brysh and Mishanya
 273602
 
 <<<<<<< HEAD
